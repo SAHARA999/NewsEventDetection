@@ -1,6 +1,6 @@
 # News event detection
 
-This is a code to detect news events and cluster articles
+This is a code to detect news events and cluster articles for my project in cooperation of Technical University of Berlin and Plista company
 
 ## Overview
 
