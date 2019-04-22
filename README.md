@@ -11,6 +11,4 @@ I used English articles as my input data
 - Numpy
 - matplotlib
 
-## InputData
 
-I only shared first row of input data, but you can simply creat your own data set
